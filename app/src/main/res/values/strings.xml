@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DataBaseAssignment</string>
+    <string name="courses_title">Courses:</string>
+    <string name="course_details_title">Course Details:</string>
+    <string name="my_courses_btn">View My Courses</string>
+    <string name="my_courses_title">My Courses:</string>
+    <string name="fall_term_header">Fall Term:</string>
+    <string name="winter_term_header">Winter Term:</string>
+    <string name="DeleteWarningHeader">Do you wish to unregister for the course below?</string>
+    <string name="CourseNameTV">PLACEHOLDER FOR A LARGE CLASS LIKE MOBILE</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="return_to_myCourses">Return</string>
+    <string name="view_available_courses">View Available Courses</string>
+</resources>
